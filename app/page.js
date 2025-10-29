@@ -160,7 +160,7 @@ export default function Home() {
       <footer className="py-12 px-6 border-t border-gray-800">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center text-gray-500 text-sm">
           <div className="mb-4 md:mb-0">
-            <p className="tracking-widest">© 2024 MĀNOA INDUSTRIES</p>
+            <p className="tracking-widest">© 2025 MĀNOA INDUSTRIES</p>
           </div>
           <div className="tracking-wider">
             <p>Founded by Jonavan Kaaiwela Gonzalez</p>
